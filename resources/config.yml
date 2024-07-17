@@ -1,0 +1,11 @@
+# $$\    $$\                    $$\ $$\ $$\            $$$$$$\  $$\       
+# $$ |   $$ |                   \__|$$ |$$ |          $$  __$$\ $$ |      
+# $$ |   $$ |$$$$$$\  $$$$$$$\  $$\ $$ |$$ | $$$$$$\  $$ /  \__|$$$$$$$\  
+# \$$\  $$  |\____$$\ $$  __$$\ $$ |$$ |$$ | \____$$\ \$$$$$$\  $$  __$$\ 
+#  \$$\$$  / $$$$$$$ |$$ |  $$ |$$ |$$ |$$ | $$$$$$$ | \____$$\ $$ |  $$ |
+#   \$$$  / $$  __$$ |$$ |  $$ |$$ |$$ |$$ |$$  __$$ |$$\   $$ |$$ |  $$ |
+#    \$  /  \$$$$$$$ |$$ |  $$ |$$ |$$ |$$ |\$$$$$$$ |\$$$$$$  |$$ |  $$ |
+#     \_/    \_______|\__|  \__|\__|\__|\__| \_______| \______/ \__|  \__|
+#Discord de VanillaShop : https://discord.gg/BD6HpjQ9JF                                                                        
+#Config        
+message: "Votre item s'appelle {name}, l'id de cette item est {id}, vous en avez {count} dans votre main, le temps de cuisson est de {fueltime} et votre item a perdu {damage} de durabilité"
