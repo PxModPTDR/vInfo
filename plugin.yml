@@ -1,4 +1,4 @@
-main: pxmodptdr\\Main
+main: pxmodptdr\info\Main
 name: Info
 version: 1.0.0
 api: [5.0.0]
